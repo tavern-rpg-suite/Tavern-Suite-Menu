@@ -86,11 +86,11 @@ The menu only **reads**. It never writes into another extension's data and never
 
 | Shown | Comes from |
 |---|---|
-| Room, background, who is where, chronicle, routine, overheard | 🗺️ RPG Map & Locations Engine |
-| Role, how met, looks, notes, trust, events, gifts | 🪶 RPG Diary |
-| Date and time on the counter | 🗞️ RPG Scene Card |
-| Unread letters | 📱 RPG Phone |
-| Companions and tickets | 🐇 RPG Dungeons |
+| Room, background, who is where, chronicle, routine, overheard | 🗺️ [RPG Map & Locations Engine](https://github.com/tavern-rpg-suite/RPG-Map-Locations-Engine)  |
+| Role, how met, looks, notes, trust, events, gifts | 🪶 [RPG Diary](https://github.com/tavern-rpg-suite/RPG-Diary) |
+| Date and time on the counter | 🗞️ [RPG Scene Card](https://github.com/tavern-rpg-suite/RPG-Scene-Card) |
+| Unread letters | 📱 [RPG-Phone](https://github.com/tavern-rpg-suite/RPG-Phone) |
+| Companions and tickets | 🐇 [RPG Dungeons — The Rabbit Hole](https://github.com/tavern-rpg-suite/RPG-Dungeons) |
 | Sprite | SillyTavern's Character Expressions folder |
 
 Every one of these is optional. Without one, its card or medallion is simply not there, or is
