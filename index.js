@@ -250,7 +250,7 @@ const I18N = {
         case_no: 'ДЕЛО №{n}',
         secret: 'СЕКРЕТНО',
         diary: 'Дневник',
-        diary_cap: 'SECRET DIARY',
+        diary_cap: 'ТАЙНЫЙ ДНЕВНИК',
         map: 'Карта',
         who_where: 'кто где',
         chronicle: 'Хроника',
